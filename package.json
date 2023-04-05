@@ -1,6 +1,6 @@
 {
-  "name": "news-app",
-  "private": true,
+  "name": "seven-peak-news",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
